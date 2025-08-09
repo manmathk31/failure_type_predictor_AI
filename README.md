@@ -1,6 +1,8 @@
 # failure_type_predictor_AI
 Edunet foundation IBM AI and cloud technologies internship Project
 
+## AutoAI Project
+
 ## 🔍 Overview
 
 The `failure_type_predictor_AI` is a machine learning model designed to predict the **type of failure** a machine might encounter before it actually happens. This helps industries reduce unplanned downtime, optimize maintenance schedules, and save operational costs. The model uses sensor readings and machine-specific data to forecast potential issues.
