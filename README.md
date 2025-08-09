@@ -2,7 +2,6 @@
 Edunet foundation IBM AI and cloud technologies internship Project
 
 # AutoAI Project
----
 
 ## 🔍 Overview
 
